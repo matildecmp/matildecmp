@@ -1,5 +1,5 @@
 - 📚 Currently studying Digital Humanities at University of Pisa
-- 👀 Interested in Machine Learning & digital and immersive technologies for cultural heritage <br/>
+- 👀 Interested in Machine Learning, Deep Learning & digital and immersive technologies for cultural heritage <br/>
 
 
 <!---
