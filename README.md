@@ -1,4 +1,4 @@
-* 🎓 Currently studying for my MSc at University of Pisa 
+* 🎓 Currently studying at University of Pisa 
 * 🔎 Interested in:
   * 🏛️ Digital and immersive technologies for cultural heritage
   * 🤖 Machine & Deep Learning <br/>
