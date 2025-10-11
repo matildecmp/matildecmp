@@ -1,4 +1,4 @@
-* 🎓 BSc in Digital Humanities at University of Pisa
+* 📚 Currently studying for my MSc in​ Digital Humanities at University of Pisa
 * 🔎 Interested in:
   * 🏛️ Digital and immersive technologies for cultural heritage
   * 🤖 Machine & Deep Learning <br/>
