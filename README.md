@@ -1,7 +1,6 @@
 * 📚 Currently studying for my MSc in​ Digital Humanities at University of Pisa
-* 🔎 Interested in:
-  * 🏛️ Digital and immersive technologies for cultural heritage
-  * 🤖 Machine & Deep Learning <br/>
+* 🧳 '26 Erasmus+ student at University of Groningen 🇳🇱
+* 🔎 Interested in 3D Graphics applied to Cultural Heritage, Machine & Deep Learning <br/>
 
 
 <!---
