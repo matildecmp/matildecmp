@@ -1,4 +1,4 @@
-* 📚 Currently studying for my MSc in​ Digital Humanities at University of Pisa
+* 📚 Currently studying for my MA in​ Digital Humanities at University of Pisa
 * 🔜​ Erasmus student at University of Groningen | '26
 * 🔎 Interested in 3D Graphics applied to Cultural Heritage, Machine & Deep Learning <br/>
 
