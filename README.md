@@ -1,5 +1,5 @@
 * 📚 MA Digital Humanities @ University of Pisa
-* 🔜​ Erasmus student @ University of Groningen '26
+* 🧳​​ Erasmus student @ University of Groningen '26
 * 🔎 3D Graphics applied to Cultural Heritage | Machine & Deep Learning | AI Ethics <br/>
 
 
